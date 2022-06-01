@@ -11,7 +11,7 @@ Run battery_pack_96S1P.m and electric_car_livescript.mlx to get started
 page to learn more about modeling heat transfer in 3-D systems.
 
 ## **Simulation Model**
-![](images/![casing_pic2](https://user-images.githubusercontent.com/106654714/171420658-727a2db1-2da6-4e5d-ab35-3d83a445081e.png).png)
+![](images/casing_pic2.png)
 
 ## **Simulation Results**
 ![](images/temp_map.png)
