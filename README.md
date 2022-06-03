@@ -8,9 +8,9 @@ Run battery_pack_96S1P.m and electric_car_livescript.mlx to get started
 * Please visit the [Q-Bat](https://www.mathworks.com/products/connections/product_detail/quickersim-q-bat.html) and [QuickerSim](https://emobility.quickersim.com/) 
 page to learn more about modeling heat transfer in 3-D systems.
 
-This repository shows how to model heat transfer in an electric car’s battery pack in Q-Bat from QuickerSim. The model consists 96 lithium prismatic cells (96s1p), terminals, connectors, holders, casing and cooling plates and is connected to a reduced-order model (ROM) to model heat transfer in 3D geometry. 
+This repository shows how to model heat transfer in an electric car’s battery pack in Q-Bat from QuickerSim. The model consists 96 lithium prismatic cells (96s1p), terminals, connectors, holders, casing and cooling plates and is connected to a reduced-order model (ROM) to model heat transfer in 3D geometry. Two cooling plates are used to maintain the optimum temperature range in the battery packs.
 
-
+In this example, it is shown how to check for a mesh independent solution. Three meshes with the different numbers of elements are prepared and used in simulation to compare the results.
 
 ## **Simulation Model**
 ![](images/casing_pic2.png)
