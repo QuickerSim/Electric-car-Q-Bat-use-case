@@ -1,5 +1,5 @@
 # Heat transfer in an electric car’s battery pack modeled in Q-Bat
-[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
+[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/115285-electric-car-q-bat-use-case)
 
 ### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Electric-car-Q-Bat-use-case/releases/download/1.0.0/Electric-car-Q-Bat-use-case.zip) :arrow_down:
 
